@@ -3,3 +3,4 @@ sentence-transformers==3.0.1
 pinecone-client
 langchain==0.2.6
 flask
+langchain_community
